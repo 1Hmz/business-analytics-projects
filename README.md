@@ -1,6 +1,6 @@
-# 📊 Business Analytics Projects
+# Business Analytics Projects
 
-## 🎯 Objectif
+## Objectif
 
 Ce repository regroupe plusieurs projets réalisés en environnement professionnel, centrés sur l’analyse business, la structuration de données et l’aide à la décision.
 
@@ -62,7 +62,7 @@ Ces projets ont été réalisés dans un environnement multi-enseignes (restaura
 
 ---
 
-## 📊 Data Visualisation
+## Data Visualisation
 
 - Développement de dashboards Power BI :
   - suivi de la performance commerciale
@@ -75,14 +75,14 @@ Ces projets ont été réalisés dans un environnement multi-enseignes (restaura
 
 ---
 
-## 📈 Analyse marketing
+## Analyse marketing
 
 - Pilotage et analyse du ROI de campagnes SMS sur plusieurs enseignes
 - Utilisation de la base clients structurée pour améliorer le ciblage
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 
 - Python (Pandas, Selenium)
 - Power BI (DAX, Power Query)
@@ -90,7 +90,7 @@ Ces projets ont été réalisés dans un environnement multi-enseignes (restaura
 
 ---
 
-## 🚀 Apports du projet
+## Apports du projet
 
 Ces projets m’ont permis de développer une approche complète de la data :
 
