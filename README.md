@@ -26,10 +26,6 @@ Ces projets ont été réalisés dans un environnement multi-enseignes (restaura
 - Identification des tendances temporelles (jours, périodes, promotions)
 - Contribution à l’évaluation de l’impact des actions commerciales
 
-📈 Résultats observés :
-- +23% de chiffre d’affaires en jours promotionnels  
-- +36% du nombre de commandes  
-
 ---
 
 ### 🍕 Al Forno — Analyse des dépenses & optimisation
