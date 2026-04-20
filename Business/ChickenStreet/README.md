@@ -24,4 +24,4 @@ Analyser les ventes afin d’identifier les leviers d’optimisation du chiffre 
 
 ## 📸 Dashboard
 
-![Dashboard](Business/ChickenStreet/images/Dashboard_ChickenStreet.png)
+![Dashboard](images/Dashboard_ChickenStreet.png)
