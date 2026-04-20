@@ -11,7 +11,7 @@ Analyser les ventes afin d’identifier les leviers d’optimisation du chiffre 
 - Analyse du chiffre d’affaires
 - Volume de commandes
 - Panier moyen
-- Analyse temporelle (jours, périodes)
+- Analyse temporelle (annuelle, trimestrielle, saisonnalité)
 
 ---
 
